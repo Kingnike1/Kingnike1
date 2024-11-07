@@ -1,5 +1,7 @@
 # 👋 Olá, Mundo! Eu sou o @Kingnike1
 
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60" alt="Olá" align="left"> 
+
 Bem-vindo ao meu GitHub! Aqui vai um pouco sobre mim:
 
 - 👀 **Meus interesses:** Sou apaixonado por **desenvolvimento web**, **design de jogos** e explorar o **potencial da IA em soluções do dia a dia**. Adoro construir projetos que fazem a diferença e trazem alegria para os usuários!
@@ -20,7 +22,12 @@ Bem-vindo ao meu GitHub! Aqui vai um pouco sobre mim:
 
 ✨ Este perfil está sempre em atualização, cheio de ideias, projetos e experimentos. Confira meus repositórios e não hesite em conectar-se se quiser colaborar ou bater um papo!
 
-[![GitHub followers](https://img.shields.io/github/followers/Kingnike1?label=Seguir&style=social)](https://github.com/Kingnike1) [![GitHub stars](https://img.shields.io/github/stars/Kingnike1?label=Estrelas&style=social)](https://github.com/Kingnike1?tab=repositories)
+<p align="center">
+  <img src="https://media.giphy.com/media/2Ygy0khwewA9nDds4x/giphy.gif" width="40" height="40"> [![GitHub followers](https://img.shields.io/github/followers/Kingnike1?label=Seguir&style=social)](https://github.com/Kingnike1)
+  <img src="https://media.giphy.com/media/2Ygy0khwewA9nDds4x/giphy.gif" width="40" height="40"> [![GitHub stars](https://img.shields.io/github/stars/Kingnike1?label=Estrelas&style=social)](https://github.com/Kingnike1?tab=repositories)
+</p>
+
+---
 
 <!---
 Kingnike1/Kingnike1 é um repositório ✨ especial ✨ porque o `README.md` (este arquivo) aparece no seu perfil GitHub.
