@@ -1,5 +1,3 @@
----
-
 # 👋 Olá, Mundo! Eu sou o @Kingnike1
 
 ![Bem-vindo ao perfil do Kingnike1](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
@@ -19,12 +17,6 @@ Bem-vindo ao meu GitHub! Aqui vai um pouco sobre mim:
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Kingnike1.Kingnike1) ![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kingnike1&show_icons=true&theme=radical)
 
 ✨ Este perfil está sempre em atualização. Confira meus repositórios e não hesite em conectar-se se quiser colaborar ou bater um papo!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2Ygy0khwewA9nDds4x/giphy.gif" width="40" height="40"> [![GitHub followers](https://img.shields.io/github/followers/Kingnike1?label=Seguir&style=social)](https://github.com/Kingnike1)
-  <img src="https://media.giphy.com/media/2Ygy0khwewA9nDds4x/giphy.gif" width="40" height="40"> [![GitHub stars](https://img.shields.io/github/stars/Kingnike1?label=Estrelas&style=social)](https://github.com/Kingnike1?tab=repositories)
-</p>
-
 ---
 
 ### Tecnologias que domino
