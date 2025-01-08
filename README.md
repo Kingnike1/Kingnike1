@@ -18,14 +18,13 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui vai um pouco sobre mim:
 
 ## **Meus Projetos Recentes** 🛠️
 
-1. **[Projetos](https://github.com/Kingnike1/projetos)**  
+1. **[Projetos](https://kingnike1.github.io/projetos/)**  
    Uma coleção de ideias que fui desenvolvendo ao longo dos estudos e organizando para aprendizado contínuo.
 
-2. **[Card da Nike](https://github.com/Kingnike1/sistema-biblioteca)**  
+2. **[Card da Nike](https://kingnike1.github.io/card/)**  
    Um projeto em desenvolvimento para treinar e testar minhas habilidades em **frontend**.
 
 ---
-
 ## **Minha Jornada** 📅
 
 | Ano      | Marco                                                                  |
