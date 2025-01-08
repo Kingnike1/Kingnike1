@@ -39,16 +39,14 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui vai um pouco sobre mim:
 ## **Tecnologias que estou aprendendo e usando** 🚀
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50px" height="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50px" height="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" height="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" height="50px" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg
-  " alt="React" width="50px" height="50px" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg
-  " alt="React" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" alt="React" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="Python" width="50px" height="50px" />
 </div>
 
 ---
@@ -56,7 +54,7 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui vai um pouco sobre mim:
 ## **Estatísticas do GitHub** 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnike1&layout=compact&theme=radical" alt="Linguagens mais usadas" width="42%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnike1&layout=compact&theme=radical" alt="Linguagens mais usadas" width="42%" />
 </div>
 
 ---
@@ -64,5 +62,3 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui vai um pouco sobre mim:
 Se você quiser acompanhar ou colaborar em algum projeto, sinta-se à vontade para explorar meus repositórios! 🚀
 
 [**Entre em contato comigo!**](mailto:kingnike1@exemplo.com) 😊
-
-
