@@ -1,0 +1,132 @@
+[10/2 18:48] Pablo: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Password Generator</h2>
+        <div class="password-box">
+            <input type="text" id="password" readonly>
+            <button id="copy-btn">Copy</button>
+        </div>
+        <div class="settings">
+            <label><input type="checkbox" id="lowercase" checked> Lowercase (a-z)</label>
+            <label><input type="checkbox" id="uppercase"> Uppercase (A-Z)</label>
+            <label><input type="checkbox" id="numbers" checked> Numbers (0-9)</label>
+            <label><input type="checkbox" id="symbols" checked> Symbols (!-$^+)</label>
+            <label><input type="checkbox" id="exclude-duplicate"> Exclude Duplicates</label>
+            <label><input type="checkbox" id="include-spaces"> Include Spaces</label>
+        </div>
+        <button id="generate-btn">Generate Password</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+[10/2 18:48] Pablo: * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #d0d5e3;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.password-box {
+    display: flex;
+    margin: 15px 0;
+}
+
+input {
+    flex: 1;
+    padding: 8px;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: #1e1e2f;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.settings {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+label {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+#generate-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+[10/2 18:48] Pablo: const passwordField = document.getElementById("password");
+const copyBtn = document.getElementById("copy-btn");
+const generateBtn = document.getElementById("generate-btn");
+
+const lowercaseCheckbox = document.getElementById("lowercase");
+const uppercaseCheckbox = document.getElementById("uppercase");
+const numbersCheckbox = document.getElementById("numbers");
+const symbolsCheckbox = document.getElementById("symbols");
+const excludeDuplicateCheckbox = document.getElementById("exclude-duplicate");
+const includeSpacesCheckbox = document.getElementById("include-spaces");
+
+const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
+const uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numberChars = "0123456789";
+const symbolChars = "!@$%^&*()_+-=[]{}|;:,.<>?";
+
+function generatePassword() {
+    let allChars = "";
+    if (lowercaseCheckbox.checked) allChars += lowercaseChars;
+    if (uppercaseCheckbox.checked) allChars += uppercaseChars;
+    if (numbersCheckbox.checked) allChars += numberChars;
+    if (symbolsCheckbox.checked) allChars += symbolChars;
+    if (includeSpacesCheckbox.checked) allChars += " ";
+
+    let password = "";
+    while (password.length < 12) {
+        let randomChar = allChars.charAt(Math.floor(Math.random() * allChars.length));
+        if (excludeDuplicateCheckbox.checked && password.includes(randomChar)) continue;
+        password += randomChar;
+    }
+
+    passwordField.value = password;
+}
+
+copyBtn.addEventListener("click", () => {
+    passwordField.select();
+    document.execCommand("copy");
+});
+
+generateBtn.addEventListener("click", generatePassword);
