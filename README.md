@@ -1,66 +1,75 @@
+
+
 # 👋 Olá, Mundo! Eu sou o **@Kingnike1**
 
 ![Bem-vindo ao perfil do Kingnike1](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-Seja bem-vindo ao meu perfil no GitHub! Aqui vai um pouco sobre mim:
+<p align="center">
+  <strong>💻 Desenvolvedor em formação | 🚀 Explorador de tecnologias | 🎨 Criador de ideias</strong>
+</p>
 
 ---
 
-## **Sobre Mim** 🌟
+## 🌟 Sobre Mim
 
-- 👀 **Interesses:** Sou apaixonado por **desenvolvimento web**, **design criativo** e explorar o **mundo da programação interativa**.
-- 🌱 **Estudando atualmente:** **Python**, **PHP**, **JavaScript**, **HTML**, **CSS**, **React**, **MySQL**, além de conceitos sobre **banco de dados** e **Docker**.
-- 💼 **Busco colaborar em:** Projetos de **Frontend**, **Desenvolvimento de Quizzes Interativos**, **Sistemas Educacionais** e **Soluções úteis para o dia a dia**.
-- 💬 **Pergunte-me sobre:** Como criar projetos simples e úteis usando **HTML, CSS, JavaScript e PHP**, ou sobre **Docker para iniciantes**.
-- 📚 **Atualmente sou estudante:** **Técnico em Informática para Internet** no Instituto Federal Goiano - Campus Ceres.
-
----
-
-## **Meus Projetos Recentes** 🛠️
-
-1. **[Projetos](https://kingnike1.github.io/projetos/)**  
-   Uma coleção de ideias que fui desenvolvendo ao longo dos estudos e organizando para aprendizado contínuo.
-
-2. **[Card da Nike](https://kingnike1.github.io/card/)**  
-   Um projeto em desenvolvimento para treinar e testar minhas habilidades em **frontend**.
-
----
-## **Minha Jornada** 📅
-
-| Ano      | Marco                                                                  |
-| -------- | ---------------------------------------------------------------------- |
-| **2025** | Comecei projetos em React e técnicas avançadas de desenvolvimento web. |
-| **2024** | Desenvolvi meu primeiro site funcional.                                |
-| **2023** | Iniciei com Python e jogos simples.                                    |
+- 🔍 **Curioso por natureza** — adoro mergulhar em novas linguagens e ferramentas.
+- 🌱 **Aprendendo no momento:**  
+  `Python` • `PHP` • `JavaScript` • `HTML` • `CSS` • `React` • `MySQL` • `Docker`
+- 🤝 **Buscando contribuir em:**  
+  Frontend criativo, sistemas educacionais e soluções úteis do dia a dia.
+- 💬 **Fale comigo sobre:**  
+  Projetos com **HTML/CSS/JS/PHP**, **bancos de dados**, **quizzes**, e até **Docker para iniciantes**.
+- 🎓 **Estudante:** Técnico em Informática para Internet  
+  🏫 Instituto Federal Goiano - Campus Ceres
 
 ---
 
-## **Tecnologias que estou aprendendo e usando** 🚀
+## 🚀 Meus Projetos em Destaque
+
+| 🧠 Projeto | 🔗 Link | 🔍 Descrição |
+|-----------|---------|--------------|
+| **Meus Projetos** | [🔗 Acessar](https://kingnike1.github.io/projetos/) | Vitrine de experimentos e aprendizados |
+| **Card da Nike** | [🔗 Acessar](https://kingnike1.github.io/card/) | Um treino de frontend com muito estilo 👟 |
+
+---
+
+## 📅 Minha Jornada
+
+```txt
+2023 ───── Iniciei com Python e jogos simples
+2024 ───── Desenvolvi meu primeiro site funcional
+2025 ───── Explorando React e tecnologias modernas
+```
+
+---
+
+## 🧠 Tecnologias que uso e estudo
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" height="50px" />
-</div>
-
-
-
----
-
-## **Estatísticas do GitHub** 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnike1&layout=compact&theme=radical" alt="Linguagens mais usadas" width="42%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50px" />
 </div>
 
 ---
 
-Se você quiser acompanhar ou colaborar em algum projeto, sinta-se à vontade para explorar meus repositórios! 🚀
+## 📊 Estatísticas do GitHub
 
-[**Entre em contato comigo!**](mailto:kingnike1@exemplo.com) 😊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnike1&layout=compact&theme=radical" alt="Linguagens mais usadas" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingnike1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="45%" />
+</div>
+
+---
+
+## 📬 Entre em Contato
+
+💌 Me envie um e-mail: [kingnike1@exemplo.com](mailto:kingnike1@exemplo.com)  
+📫 Ou apenas me siga e explore meus repositórios! 😄
+
