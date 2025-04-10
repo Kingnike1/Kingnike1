@@ -55,7 +55,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png)" title="Laravel" width="50px" />
+<img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" title="Laravel" width="50px" />
 
 </div>
 
