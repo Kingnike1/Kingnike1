@@ -1,77 +1,85 @@
 
-
-# 👋 Olá, Mundo! Eu sou o **@Kingnike1**
-
-![Bem-vindo ao perfil do Kingnike1](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+# 👋 Olá, Mundo! Eu sou o **Pablo (@Kingnike1)**  
+### Desenvolvedor Fullstack em Formação • Web • Automação • Boas Práticas
 
 <p align="center">
-  <strong>💻 Desenvolvedor em formação | 🚀 Explorador de tecnologias | 🎨 Criador de ideias</strong>
+  <strong>💻 Desenvolvimento Web | ⚙️ Backend & Frontend | 🚀 Construindo projetos reais</strong>
 </p>
 
 ---
 
 ## 🌟 Sobre Mim
 
-- 🔍 **Curioso por natureza** — adoro mergulhar em novas linguagens e ferramentas.
-- 🌱 **Aprendendo no momento:**  
-  `Python` • `PHP` • `JavaScript` • `HTML` • `CSS` • `React` • `MySQL` • `Docker`
-- 🤝 **Buscando contribuir em:**  
-  Frontend criativo, sistemas educacionais e soluções úteis do dia a dia.
-- 💬 **Fale comigo sobre:**  
-  Projetos com **HTML/CSS/JS/PHP**, **bancos de dados**, **quizzes**, e até **Docker para iniciantes**.
-- 🎓 **Estudante:** Técnico em Informática para Internet  
-  🏫 Instituto Federal Goiano - Campus Ceres
+Sou estudante de **Informática para Internet** pelo IF Goiano – Campus Ceres, focado em desenvolvimento **fullstack**.  
+Gosto de construir aplicações completas, bem estruturadas e com código limpo, sempre buscando evoluir em padrões modernos e boas práticas.
+
+Atualmente estudo e pratico diariamente:
+- Desenvolvimento web com **Js, PHP e Jquery**
+- Banco de dados com **MySQL**
+- Estruturação de projetos, versionamento e documentação
+- Containers e ambiente de desenvolvimento com **Docker**
+
+Meu objetivo é trabalhar em equipes reais, aprender com profissionais experientes e criar soluções que realmente façam diferença.
 
 ---
 
-## 🚀 Meus Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-| 🧠 Projeto | 🔗 Link | 🔍 Descrição |
-|-----------|---------|--------------|
-| **Meus Projetos** | [🔗 Acessar](https://kingnike1.github.io/projetos/) | Vitrine de experimentos e aprendizados |
-| **Card da Nike** | [🔗 Acessar](https://kingnike1.github.io/card/) | Um treino de frontend com muito estilo 👟 |
+| Projeto | Link | Tecnologias | Valor Técnico |
+|--------|------|-------------|----------------|
+| **Vitrine de Projetos** | [🔗 Acessar](https://kingnike1.github.io/projetos/) | HTML, CSS, JS | Página organizada que reúne meus experimentos, estudos e pequenos projetos. |
+| **Card da Nike** | [🔗 Acessar](https://kingnike1.github.io/card/) | HTML, CSS | Componente responsivo inspirado em UI moderna, focado em design e boas práticas de layout. |
+
+> *Novos projetos fullstack e integrações com API estão em desenvolvimento.*
+
+---
+
+## 🧩 Stack Técnico
+
+### **Frontend**
+- HTML • CSS • JavaScript  
+- React (Componentes, Props, Hooks)  
+
+### **Backend**
+- PHP • Node.js  
+- APIs simples • Rotas • Requisições  
+- Início em Laravel  
+
+### **Banco de Dados**
+- MySQL (consultas, relacionamentos, CRUD)
+
+### **DevOps & Ferramentas**
+- Docker  
+- Git & GitHub  
+- Deploy de aplicações simples  
+- Organização de pastas e versionamento limpo  
+
+---
+
+## 📍 O que estou buscando
+
+- Estágio em **desenvolvimento web (front, back ou fullstack)**  
+- Participação em projetos reais com boas práticas  
+- Evoluir em arquitetura, reuso de código e documentação  
+- Colaborar com soluções que ajudem pessoas e empresas
 
 ---
 
 ## 📅 Minha Jornada
 
 ```txt
-2023 ───── Iniciei com Python e jogos simples
-2024 ───── Desenvolvi meu primeiro site funcional
-2025 ───── Explorando React e tecnologias modernas
-```
+2023 — Introdução à programação com Python e lógica
+2024 — Desenvolvimento Web: HTML, CSS, JavaScript e primeiros projetos completos
+2025 — React, PHP, Node.js, MySQL e containers com Docker
+````
 
 ---
 
-## 🧠 Tecnologias que uso e estudo
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50px" />
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" title="Laravel" width="50px" />
+## 📬 Contato
 
-</div>
+📧 **E-mail:** [pabloalmeidathe1@gmail.com](mailto:pabloalmeidathe1@gmail.com)
+🔗 Conecte-se comigo aqui no GitHub!
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnike1&layout=compact&theme=radical" alt="Linguagens mais usadas" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingnike1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="45%" />
-</div>
-
----
-
-## 📬 Entre em Contato
-
-💌 Me envie um e-mail: [kingnike1@exemplo.com](mailto:kingnike1@exemplo.com)  
-📫 Ou apenas me siga e explore meus repositórios! 😄
 
