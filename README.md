@@ -10,8 +10,8 @@
 
 ## 🌟 Sobre Mim
 
-Sou estudante de **Informática para Internet** pelo IF Goiano – Campus Ceres, focado em desenvolvimento **fullstack**.  
-Gosto de construir aplicações completas, bem estruturadas e com código limpo, sempre buscando evoluir em padrões modernos e boas práticas.
+Concluí o Técnico Integrado em Informática para Internet pelo IF Goiano – Campus Ceres e estou iniciando Análise e Desenvolvimento de Sistemas na PUC Goiás.
+Meu foco é desenvolvimento fullstack, priorizando boas práticas, código limpo e estruturas bem organizadas.
 
 Atualmente estudo e pratico diariamente:
 - Desenvolvimento web com **Js, PHP e Jquery**
