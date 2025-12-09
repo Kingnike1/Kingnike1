@@ -22,18 +22,19 @@ Atualmente estudo e pratico diariamente:
 Meu objetivo é trabalhar em equipes reais, aprender com profissionais experientes e criar soluções que realmente façam diferença.
 
 ---
-
 ## 🚀 Projetos em Destaque
 
-| Projeto | Link | Tecnologias | Valor Técnico |
-|--------|------|-------------|----------------|
-| **Vitrine de Projetos** | [🔗 Acessar](https://kingnike1.github.io/projetos/) | HTML, CSS, JS | Página organizada que reúne meus experimentos, estudos e pequenos projetos. |
-| **Card da Nike** | [🔗 Acessar](https://kingnike1.github.io/card/) | HTML, CSS | Componente responsivo inspirado em UI moderna, focado em design e boas práticas de layout. |
+> *Atualmente estou reorganizando meus repositórios e atualizando projetos antigos para seguir boas práticas.*  
+> *Por enquanto, aqui estão alguns exemplos públicos do meu aprendizado:*
 
-> *Novos projetos fullstack e integrações com API estão em desenvolvimento.*
+| Projeto | Link | Tecnologias | Sobre |
+|--------|------|-------------|--------|
+| **Vitrine de Projetos** | https://kingnike1.github.io/projetos | HTML, CSS, JS | Reúne experimentos e estudos iniciais de frontend. |
+| **Card da Nike** | https://kingnike1.github.io/card | HTML, CSS | Componente visual responsivo criado como prática de layout moderno. |
+
+**Mais projetos fullstack, APIs e aplicações completas serão adicionados conforme reorganizo meu portfólio.**
 
 ---
-
 ## 🧩 Stack Técnico
 
 ### **Frontend**
